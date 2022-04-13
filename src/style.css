@@ -1,0 +1,38 @@
+
+
+.imagem__carrossel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+    
+}
+.imagem__carrossel-2 {
+    object-fit: cover;
+   
+    height: 400px;
+    
+}
+body{
+    font-family: 'Pacifico', cursive;
+}
+.cor__especial {
+    color: darkred;
+}
+.btn-primary {
+    background: darkred;
+    border: darkred;
+    color: white;
+}
+.btn-primary:hover{
+    background: rgb(118, 63, 63);
+    border: darkred;
+    color: white;
+}
+.borda__card{
+    border: 1px solid darkred;
+}
+.img__card{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 200px;
+}
